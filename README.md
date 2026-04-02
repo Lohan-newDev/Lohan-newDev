@@ -2,7 +2,7 @@
   
 <div align = "left">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJ4MTdoNDl4amhiZ2hqb3E5cXU4OWdkbHhhYXZzY2c2b3RwMWRkaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U2nN0ridM4lXy/giphy.gif" width="300px" alt="coding gif"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1jN2RtMTBlZjg1NjBycHd2eGtiMzVkcWw5aTVwZDl4Y2tlM2N2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LkEhyY42nZmg5ZSZ2q/giphy.gif" width="300px" alt="coding gif"/>
   
   <h1><strong>My name is Frederyck Lohan, i'm 20 now and do an LCC course in UFPB</strong></h1>
 
