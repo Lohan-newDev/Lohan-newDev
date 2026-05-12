@@ -30,7 +30,7 @@
 ### 🧰 Technologies I'm Working On:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,html,css,js,react&perline=8" />
 </div>
 
 ---
