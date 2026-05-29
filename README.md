@@ -63,8 +63,15 @@
 
 
 ---
+<div>
 
+  <h1>
+    My graphic streak
+  </h1>
+</div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lohan-newDev&radius=16&theme=react&area=false&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+
+---
 
 ### 🌐 My Social Media:
 
